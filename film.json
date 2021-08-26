@@ -1,0 +1,88 @@
+{
+  "Films":[
+    {
+      "Titre": "Fight Club",
+      "Directeur": "David Fincher",
+      "Auteur": "Chuck Palahnuik",
+      "Date": 1999,
+      "Vedette": [
+        {
+          "Nom": "Brad Pitt",
+          "Personnage": "Tyler Durden",
+          "Age": 57
+        },
+        {
+          "Nom": "Edward Norton",
+          "Personnage": "The Narrator",
+          "Age": 52
+        },
+        {
+          "Nom": "Meat Loaf",
+          "Personnage": "Robert 'Bob' Paulsen",
+          "Age": 73
+        }
+      ],
+      "Description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "Budget": 63000000,
+      "Fin de semaine d'ouverture": 11035485,
+      "Total USA": 37030102,
+      "Total mondial": 101209702
+    },
+    {
+      "Titre": "Les Minions",
+      "Directeur": "Kyle Balda, Pierre Coffin",
+      "Auteur": "Brian Lynch,",
+      "Date": 2015,
+      "Vedette": [
+        {
+          "Nom": "Sandra Bullock",
+          "Personnage": "Scarlet Overkill (voix)",
+          "Age": 66
+        },
+        {
+          "Nom": "Jon Hamm",
+          "Personnage": "Herb Overkill  (voix)",
+          "Age": 50
+        },
+        {
+          "Nom": "Michael Keaton",
+          "Personnage": "Walter Nelson (voix)",
+          "Age": 69
+        }
+      ],
+      "Description":"Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+      "Budget": 74000000,
+      "Fin de semaine d'ouverture": 115718405,
+      "Total USA": 336045770,
+      "Total mondial": 1159444662
+    },
+    {
+    "Titre": "365 Jours",
+      "Directeur": "Barbara Bialowas, Tomasz Mandes",
+      "Auteur": "Tomasz Mandes",
+      "Date": 2020,
+      "Vedette": [
+        {
+          "Nom": "Anna Maria Sieklucka",
+          "Personnage": "Laura",
+          "Age": 29
+        },
+        {
+          "Nom": "Michele Morrone",
+          "Personnage": "Massimo",
+          "Age": 30
+        },
+        {
+          "Nom": "Bronislaw Wroclawski",
+          "Personnage": "Mario",
+          "Age": 69
+        }
+      ],
+      "Description": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
+      "Budget": "Inconnu",
+      "Fin de semaine d'ouverture": "Inconnu",
+      "Total USA": "Inconnu",
+      "Total mondial": 9458590
+    }
+  ]
+}
